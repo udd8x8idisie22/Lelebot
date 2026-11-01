@@ -1,0 +1,4 @@
+# قالب YAML صحيح مبدئيًا.
+# استبدل القيمة أدناه بتوكن البوت، ولا تشارك التوكن مع أحد.
+bot_token: "PUT_YOUR_TELEGRAM_BOT_TOKEN_HERE"
+admin_ids: []

@@ -43,7 +43,7 @@ ANNOUNCEMENT_KEYBOARD = InlineKeyboardMarkup([
     ],
 ])
 
-ANNOUNCEMENT_HTML = """اللملكة تقدم كل شي مجانا
+ANNOUNCEMENT_HTML = """المملكة تقدم كل شي مجانا
 ‏ نوفر لكم جميع طلباتكم
 
 <tg-emoji emoji-id="5231253712508297834">😀</tg-emoji> بكل مرة يجي تربل / دبل على الطبيعة نجهز سيرفر عينات لكم <tg-emoji emoji-id="5264771654466165028">😀</tg-emoji>
